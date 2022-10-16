@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **rr4547008@gmail.com**
 
-- 📄 Know about my experiences [https://bit.ly/Rishi_resume](https://bit.ly/Rishi_resume)
+- 📄 Know about my experiences [https://bit.ly/Rishi_resume](Resume link)
 
 - ⚡ Fun fact **I love to Code🔥**
 
