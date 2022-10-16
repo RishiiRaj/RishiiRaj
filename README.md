@@ -1,13 +1,15 @@
 <h1 align="center">Hi 👋, I'm Rishi Raj</h1>
 <h3 align="center">A passionate Computer Science and Engineering student from Bangalore, India</h3>
-<img align = "right" alt = "coding" widht="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSElyjq_614rSijh2V00VCH76GNk9DNAGqIJA&usqp=CAU">
+
+<img align="right" alt = "coding" width="300" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSElyjq_614rSijh2V00VCH76GNk9DNAGqIJA&usqp=CAU">
+
 - 🔭 I’m currently working on **MBA Burger wala**
 
 - 🌱 I’m currently learning **React, Node.JS, MongoDB and Spring Boot**
 
 - 📫 How to reach me **rr4547008@gmail.com**
 
-- 📄 Know about my experiences [https://bit.ly/Rishi_resume](Resume link)
+- 📄 Know about my experiences [https://bit.ly/Rishi_resume](https://bit.ly/Rishi_resume)
 
 - ⚡ Fun fact **I love to Code🔥**
 
