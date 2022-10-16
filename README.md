@@ -1,3 +1,4 @@
+![logo](https://github.com/RishiiRaj/RishiiRaj/blob/main/github%20cover%20pic.png)
 <h1 align="center">Hi 👋, I'm Rishi Raj</h1>
 <h3 align="center">A passionate Computer Science and Engineering student from Bangalore, India</h3>
 
